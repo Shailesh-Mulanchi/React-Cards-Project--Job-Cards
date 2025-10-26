@@ -53,16 +53,7 @@ const jobs = [
     tag2: "Senior Level",
     pay: "$150/hr",
     location: "Chennai, India"
-  }, {
-    brandLogo: "https://upload.wikimedia.org/wikipedia/commons/1/19/Tesla_Motors.svg",
-    companyName: "Tesla",
-    datePosted: "4 weeks ago",
-    position: "Software Engineer",
-    tag1: "Full Time",
-    tag2: "Senior Level",
-    pay: "$150/hr",
-    location: "Chennai, India"
-  }
+  },
 ];
 
 const App = () => {
